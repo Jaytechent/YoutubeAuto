@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Video Automator",
+  "description": "A backend Node.js bot that automatically generates long-form YouTube documentary videos using Groq, ElevenLabs, Pexels and FFmpeg from a Telegram prompt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
